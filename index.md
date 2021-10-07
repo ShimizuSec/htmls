@@ -4,6 +4,8 @@
     <title>hello world</title>
   </head>
   <body>
-    <p>hello world</p>
+    <script>
+      document.write("<p>qq11</p>")
+    </script>
   </body>
 </html>
