@@ -1,9 +1,5 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
-    <p>你好！我是由Github Pages服务创造出来的Site，这里将成为发布公告的地方。</p>
-    <a href="/bbs/banwei.htm/">班委公示</a>
-  </body>
-</html>
+# 陈家伦悼念窗口
+陈家伦（2008-2022），著名乐子，2008年出生于上海，2022年被围攻死于钉钉。
+Chen Jialun（2008-2022），a famous comedian，he was born in Shanghai in 2008，and he was besieged and killed in Dingtalk in 2022.
+
+钉钉搜索3535002646群聊，在线悼念陈家伦。
